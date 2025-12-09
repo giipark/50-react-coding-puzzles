@@ -1,0 +1,27 @@
+.counter-wrapper {
+    position: relative;
+    min-height: 200px;
+}
+
+.counter-main {
+
+}
+
+.counter-history {
+    position: absolute;
+    top: 0;
+    right: 60%;
+    width: 160px;
+    border-left: 1px solid #ddd;
+    padding-left: 12px;
+}
+
+.button-group {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.reset-group {
+    margin-top: 16px;
+}
