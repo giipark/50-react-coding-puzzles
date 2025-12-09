@@ -13,9 +13,10 @@ Learning React necessitates active engagement with its fundamental principles. W
 foundational knowledge, true mastery arises from applying that knowledge to solve real-world problems. This book
 presents 50 hand-picked coding puzzles, each a stepping stone on your journey to React proficiency.
 
-| No | Puzzles            | Url                           |
-|:--:|--------------------|-------------------------------|
-| 1  | Simple Counter App | http://localhost:3000/counter |
+| No | Puzzles                                  | Url                                          | Document                                                                                                                           |
+|:--:|------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Simple Counter App                       | [counter](http://localhost:3000/counter)     | [Link](https://gipark181.notion.site/1-Simple-Counter-App-32d85ca8793c4529a27eed0238ce6a61?source=copy_link)                       |
+| 2  | Dynamic List of Items with Strikethrough | [todo-list](http://localhost:3000/todo-list) | [Link](https://gipark181.notion.site/2-Dynamic-List-of-Items-with-Strikethrough-2c42289ab9b080dc95d0ce4a2423accd?source=copy_link) |
 
 ### Reference
 
