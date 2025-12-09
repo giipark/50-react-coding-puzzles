@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import CounterPage from "./pages/Counter/CounterPage"
+import CounterPage from "./pages/counter/CounterPage"
 
 function App() {
     return (
