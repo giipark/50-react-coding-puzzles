@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./Counter.css"
+import "./css/Counter.css"
 
 const LIMIT_COUNT = 100;
 
